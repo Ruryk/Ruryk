@@ -1,11 +1,9 @@
 ## ***Hi there*** 👋
 
-***
 ***I’m a web developer with 4 years of experience, working with modern frameworks and tools like Angular, React, and
 Node.js. I focus on creating reliable front-end architectures, efficient back-end systems, and using advanced
 technologies when needed. I enjoy building apps that meet business goals with clean code, simple interfaces, and solid
 performance. Always eager to learn, I’m quick to pick up new tools and tackle challenges to deliver great results.***
-***
 
 ## ***Skills***
 
@@ -26,8 +24,6 @@ performance. Always eager to learn, I’m quick to pick up new tools and tackle 
   ***Chart.js, D3.js, Grafana***
 - ### ***Web3 & Blockchain:***
   ***Moralis, Ether.js, Metamask***
-
-***
 
 ## ***Contacts***
 - ***[LinkedIn](https://www.linkedin.com/in/vladyslav-ivashchenko)***
